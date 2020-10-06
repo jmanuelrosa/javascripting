@@ -13,7 +13,7 @@
   "preferGlobal": true,
   "dependencies": {
     "colors": "^1.0.3",
-    "diff": "^1.2.1",
+    "diff": "^4.0.2",
     "workshopper-adventure": "^4.4.6"
   },
   "license": "MIT"
